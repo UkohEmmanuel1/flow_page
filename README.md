@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+### the folder i added sir Applicants _view  Applicants _details  Jobs description_view Recruitment  Staff_requistion Asset_two _component
+
 ## Getting Started
 
 Sir this is the route 
